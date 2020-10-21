@@ -1,16 +1,31 @@
-### Hi there 👋
+<header>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+<header />
 
-<!--
-**mspremulli/mspremulli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <body>
+<h5>Here's What I'm working on:<h5/>
+<img src = "mysql/mysql-plain-wordmark.svg"  width="50" height="60" />
+  <br/>
+  
+<h5>I'm proficent with: <h5/>
+  
+  
+<img src = "css3/css3-plain-wordmark.svg"  width="50" height="60" />
+<img src = "java/java-original-wordmark.svg"  width="50" height="60" />
+<img src = "javascript/javascript-plain.svg"  width="50" height="60" />
+<img src = "nodejs/nodejs-plain.svg"  width="50" height="60" />                                                              
+<img src = "redux/redux-original.svg"  width="50" height="60" />    
+<img src = "react/react-original-wordmark.svg"  width="50" height="60" />
 
-Here are some ideas to get you started:
+<h5>In the past I've done some work with:<h5/>
+<img src = "python/python-plain-wordmark.svg"  width="50" height="60" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5>Contact me on:<h5/>
+ <a target="_blank" href="https://twitter.com/Mike_Spremulli">
+   <img src = "twitter/twitter-original.svg"  width="50" height="60" />
+ </a>
+<a target="_blank" href = "https://www.linkedin.com/in/michaelspremulli" >
+  <img src = "linkedin/linkedin-original.svg"  width="50" height="60" />
+<a/>
+
+<body />
