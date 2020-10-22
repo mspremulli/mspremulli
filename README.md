@@ -5,6 +5,7 @@
   <body>
 <h5>Here's What I'm working on:<h5/>
   
+<img src = "spring-boot-mini-logo.jpg"  width="50" height="60" /> 
 <img src = "bootstrap/bootstrap-plain-wordmark.svg"  width="50" height="60" /> 
 <img src = "mysql/mysql-plain-wordmark.svg"  width="50" height="60" />
   
