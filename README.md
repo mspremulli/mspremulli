@@ -6,8 +6,9 @@
 <h5>Here's What I'm working on:<h5/>
   
 <img src = "spring-boot-mini-logo.jpg"  width="50" height="60" /> 
-<img src = "bootstrap/bootstrap-plain-wordmark.svg"  width="50" height="60" /> 
+<img src = "python/python-plain-wordmark.svg"  width="50" height="60" />
 <img src = "mysql/mysql-plain-wordmark.svg"  width="50" height="60" />
+<img src = "hibernate_logo_whitebkg_stacked_256px.png"  width="50" height="60" />
   
   <br/>
   
@@ -22,7 +23,7 @@
 <img src = "css3/css3-plain-wordmark.svg"  width="50" height="60" />
 
 <h5>In the past I've done some work with:<h5/>
-<img src = "python/python-plain-wordmark.svg"  width="50" height="60" />
+<img src = "C%23.png"  width="50" height="60" />
 
 <h5>Contact me on:<h5/>
   
